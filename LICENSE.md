@@ -1,4 +1,4 @@
-# 
+# custom RStudio for PC | RStudio for Windows Helper | formula-editing + custom-scripts offers the most advanced RStudio for PC | RStudio for Windows helper, with formula-editing
 
 
 
